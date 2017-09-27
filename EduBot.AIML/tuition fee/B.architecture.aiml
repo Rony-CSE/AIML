@@ -1,0 +1,121 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR ARCHITECTURE</pattern>
+    <template>
+      Tuition Fee for B. Architecture <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 194 --- Program Duration: 5 years <br></br>
+      Admission Fees: 42,100 --- Semester Cost(Average): 76,000 --- Installment: 25,333 --- Total Fees: 765,000.
+    </template>
+  </category>
+</aiml>

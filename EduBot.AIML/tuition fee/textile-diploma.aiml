@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR TEXTILE ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR TEXTILE ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR TEXTILE ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR TE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR TE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR TE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR TEXTILE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR TEXTILE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>TEXTILE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>AMOUNT FOR TE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR TE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR TE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE) (For Diploma Holder)	 <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 39,100 --- Semester Cost(Average): 38,950 --- Installment: 12,983 --- Total Fees: 428,100.
+    </template>
+  </category>
+</aiml>

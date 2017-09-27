@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR JOURNALISM</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR JOURNALISM</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR JOURNALISM</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR JOURNALISM</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR JOURNALISM</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR JOURNALISM</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR JMC</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR JMC</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR JMC</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR JMC</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR JMC</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR JMC</pattern>
+    <template>
+      Tuition Fee for BSS in Journalism & Mass Communication (BSS in JMC) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 42,000 --- Installment: 14,000 --- Total Fees: 496,600.
+    </template>
+  </category>
+</aiml>

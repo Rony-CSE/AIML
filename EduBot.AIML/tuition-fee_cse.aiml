@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 148 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 65,000 --- Installment: 21,667 --- Total Fees: 757,400.
+    </template>
+  </category>
+</aiml>

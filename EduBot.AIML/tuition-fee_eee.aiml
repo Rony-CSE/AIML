@@ -1,0 +1,127 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* TAKA FOR ELECTRICAL AD ELECTRONICS ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* COST FOR ELECTRICAL AD ELECTRONICS ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR ELECTRICAL AD ELECTRONICS ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>* COST FOR EEE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR EEE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>* AMOUNT FOR EEE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+
+
+
+
+
+
+    <category>
+    <pattern>TAKA FOR ELECTRICAL AD ELECTRONICS ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>COST FOR ELECTRICAL AD ELECTRONICS ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ELECTRICAL AD ELECTRONICS ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>COST FOR EEE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR EEE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+
+<category>
+    <pattern>AMOUNT FOR EEE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electrical and Electronics Engineering (EEE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 143 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 60,000 --- Installment: 20,000 --- Total Fees: 692,000.
+    </template>
+  </category>
+</aiml>

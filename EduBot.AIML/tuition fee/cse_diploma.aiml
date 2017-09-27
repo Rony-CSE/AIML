@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR COMPUTER SCIENCE AND ENGINEERIN DIPLOMA HOLDER	</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR COMPUTER SCIENCE AND ENGINEERIN DIPLOMA HOLDER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR COMPUTER SCIENCE AND ENGINEERIN DIPLOMA HOLDER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR DIPLOMA CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* TAKA FOR CSE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+  <category>
+    <pattern> COST FOR COMPUTER SCIENCE AND ENGINEERIN DIPLOMA HOLDER	</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+  <category>
+    <pattern> AMOUNT FOR COMPUTER SCIENCE AND ENGINEERIN DIPLOMA HOLDER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+<category>
+    <pattern> TAKA FOR COMPUTER SCIENCE AND ENGINEERING DIPLOMA HOLDER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+  
+  <category>
+    <pattern> AMOUNT FOR DIPLOMA CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+  <category>
+    <pattern> TAKA FOR CSE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>
+
+    <category>
+    <pattern> COST FOR DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Computer Science and Engineering (CSE) (For Diploma Holder)	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 115 --- Program Duration: 10 Semisters <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 46,000 --- Installment: 15,333 --- Total Fees: 452,850.
+    </template>
+  </category>

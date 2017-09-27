@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR CIVIL ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR CIVIL ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR CIVIL ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR CE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+    <category>
+	 <pattern>* TAKA FOR CE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR CE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR CIVIL ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR CIVIL ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR CIVIL ENGINEERING DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>AMOUNT FOR CE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR CE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR CE DIPLOMA</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)(For Diploma Holder) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 136 --- Program Duration: 10 Semester <br></br>
+      Admission Fees: 34,350 --- Semester Cost(Average): 41,950 --- Installment: 13,983 --- Total Fees: 443,600.
+    </template>
+  </category>
+</aiml>

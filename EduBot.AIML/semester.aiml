@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2017                                         -->
+<!--  Permission is hereby granted, free of charge, to any person       -->
+<!--  obtaining a copy of this software and associated documentation    -->
+<!--  files (the "Software"), to deal in the Software without           -->
+<!--  restriction, including without limitation the rights to use,      -->
+<!--  copy, modify, merge, publish, distribute, sublicense, and/or sell -->
+<!--  copies of the Software, and to permit persons to whom the         -->
+<!--  Software is furnished to do so, subject to the following          -->
+<!--  conditions:                                                       -->
+<!--  The above copyright notice and this permission notice shall be    -->
+<!--  included in all copies or substantial portions of the Software.   -->
+<!--  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,   -->
+<!--  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES   -->
+<!--  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND          -->
+<!--  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT       -->
+<!--  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,      -->
+<!--  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING      -->
+<!--  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR     -->
+<!--  OTHER DEALINGS IN THE SOFTWARE.                                   -->
+<!--  Complies with the AIML 1.0 Standard                               -->
+<!--  as adopted by the ALICE A.I. Foundation.                          -->
+<!--  Last modified 08-21-2017                                          -->
+<!--  file: semester.aiml                                               -->
+<aiml version="1.0">
+  <category>
+    <pattern>SUMMER SEMESTER *</pattern>
+    <template><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> Schedule May to September.</template>
+  </category>
+  <category>
+    <pattern>SPRING SEMESTER *</pattern>
+    <template><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> Schedule January to May.</template>
+  </category>
+  <category>
+    <pattern>FALL SEMESTER *</pattern>
+    <template><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> Schedule September to January.</template>
+  </category>
+  <category>
+    <pattern>* SEMESTER</pattern>
+    <template>In DIU has three semester system in a year. <br/><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> (January to May),  <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> (May to September) and <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> (September to January).</template>
+  </category>
+  <category>
+    <pattern>SEMESTER</pattern>
+    <template>In DIU has three semester system in a year. <br/><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> (January to May),  <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> (May to September) and <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> (September to January).</template>
+  </category>
+  <category>
+    <pattern>FALL SEMESTER</pattern>
+    <template><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> Schedule September to January.</template>
+  </category>
+  <category>
+    <pattern>SUMMER SEMESTER</pattern>
+    <template><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> Schedule May to September.</template>
+  </category>
+  <category>
+    <pattern>SPRING SEMESTER</pattern>
+    <template><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> Schedule January to May.</template>
+  </category>
+  <category>
+    <pattern>HOW MANY SEMESTER *</pattern>
+    <template>In DIU has three semester system in a year. <br/><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> (January to May),  <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> (May to September) and <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> (September to January).</template>
+  </category>
+  <category>
+    <pattern>SEMESTER SCHEDULE</pattern>
+    <template>In DIU has three semester system in a year. <br/><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> (January to May),  <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> (May to September) and <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> (September to January).</template>
+  </category>
+  <category>
+    <pattern>SEMESTER</pattern>
+    <template>In DIU has three semester system in a year. <br/><a href="https://daffodilvarsity.edu.bd/page/show_page_detail/spring-semester" target="_blank">Spring Semester</a> (January to May),  <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/summer-semester" target="_blank">Summer Semester</a> (May to September) and <a href="https://daffodilvarsity.edu.bd/page/show_page_detail/fall-semester" target="_blank">Fall Semester</a> (September to January).</template>
+  </category>
+</aiml>

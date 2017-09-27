@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR TOURISM AND HOSPITALITY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR TOURISM AND HOSPITALITY </pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR TOURISM AND HOSPITALITY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR THM</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR THM</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR CSE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR TOURISM AND HOSPITALITY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR TOURISM AND HOSPITALITY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR TOURISM AND HOSPITALITY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR THM</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR THM</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR THM</pattern>
+    <template>
+      Tuition Fee for Bachelor of Tourism and Hospitality Management (THM) 	<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,000 --- Installment: 15,667 --- Total Fees: 496,900.
+    </template>
+  </category>
+</aiml>

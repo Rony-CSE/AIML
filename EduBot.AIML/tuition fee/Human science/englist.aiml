@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR ENGLISH</pattern>
+    <template>
+      Tuition Fee for B.A (Hons) in English<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 33,900 --- Installment: 11,300 --- Total Fees: 406,100.
+    </template>
+  </category>
+</aiml>

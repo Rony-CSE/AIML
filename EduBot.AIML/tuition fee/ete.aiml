@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR ETE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR ETE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR ETE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR ELECTRONICS AND TELECOMMUNICATION ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>AMOUNT FOR ETE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR ETE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR ETE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Electronics and Telecommunication Engineering (ETE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 52,000 --- Installment: 17,333 --- Total Fees: 617,100.
+    </template>
+  </category>
+</aiml>

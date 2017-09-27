@@ -1,0 +1,121 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR ENTREPRENEURSHIP </pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Entrepreneurship (BE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 58,500 --- Installment: 19,500 --- Total Fees: 752,600.
+    </template>
+  </category>
+</aiml>

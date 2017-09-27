@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- Copyright ©2017                                         -->
+<!--  Permission is hereby granted, free of charge, to any person       -->
+<!--  obtaining a copy of this software and associated documentation    -->
+<!--  files (the "Software"), to deal in the Software without           -->
+<!--  restriction, including without limitation the rights to use,      -->
+<!--  copy, modify, merge, publish, distribute, sublicense, and/or sell -->
+<!--  copies of the Software, and to permit persons to whom the         -->
+<!--  Software is furnished to do so, subject to the following          -->
+<!--  conditions:                                                       -->
+<!--  The above copyright notice and this permission notice shall be    -->
+<!--  included in all copies or substantial portions of the Software.   -->
+<!--  THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND,   -->
+<!--  EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES   -->
+<!--  OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND          -->
+<!--  NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT       -->
+<!--  HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY,      -->
+<!--  WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING      -->
+<!--  FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR     -->
+<!--  OTHER DEALINGS IN THE SOFTWARE.                                   -->
+<!--  Complies with the AIML 1.0 Standard                               -->
+<!--  as adopted by the ALICE A.I. Foundation.                          -->
+<!--  Last modified 08-21-2017                                          -->
+<!--  file: eligibility_cse.aiml                                            -->
+<aiml version="1.0">
+  <category>
+    <pattern>* GROUP * CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>
+SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>
+Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>
+O level A level:<br/>
+Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>
+Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>
+Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.
+Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>* GROUP CAN * CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>GPA NEED FOR CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>
+SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>
+Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>
+O level A level:<br/>
+Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>
+Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>
+Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.
+Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>MINIMUM GPA FOR CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+<category>
+    <pattern>* GROUP * CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>
+SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>
+Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>
+O level A level:<br/>
+Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>
+Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>
+Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.
+Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>* GROUP CAN * CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>GPA NEED FOR CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>
+SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>
+Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>
+O level A level:<br/>
+Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>
+Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>
+Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.
+Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>MINIMUM GPA FOR CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>MINIMUM GPA NEED FOR CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+<category>
+    <pattern>MINIMUM GPA REQUIRED FOR CSE</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>* GROUP * COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>
+SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>
+Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>
+O level A level:<br/>
+Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>
+Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>
+Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.
+Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>* GROUP CAN * COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>GPA NEED FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>
+SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>
+Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>
+O level A level:<br/>
+Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>
+Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>
+Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.
+Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>MINIMUM GPA FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>MINIMUM GPA NEED FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+  <category>
+    <pattern>MINIMUM GPA REQUIRED FOR COMPUTER SCIENCE AND ENGINEERING</pattern>
+    <template>Admission Requirement for B.Sc in Computer Science Engineering. (CSE)<br/>SSC /Dakhil/Vocational HSC/Alim/Vocational:<br/>Students having minimum 2.5 GPA both in SSC/Dakhil/Vocational and HSC/Alim/Vocational from Science group with minimum ‘C’ grade in Physics, Mathematics may apply for admission.<br/>O level A level:<br/>Students completing five O-level subjects and at least two A-level subjects may apply. Out of these 7 subjects applicants must have minimum 4 ‘B’ grade 3 ‘C’ grade. The applicants must have Physics and Mathematics both at O-level and A-level.<br/>Admission Requirement for B.Sc in Computer Science Engineering (CSE)(For Diploma Holder):<br/>Students having minimum 2.5 GPA both in SSC and Diploma and Diploma from Computer Technology may apply for admission.Before Diploma, Students of O-Level have to complete minimum five subjects and out of these 5 subjects applicants applicant must have minimum 3 ‘B’ grade 2 ‘C’ grade.</template>
+  </category>
+</aiml>

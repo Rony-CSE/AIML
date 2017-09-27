@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR LLB</pattern>
+    <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR LLB</pattern>
+  <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR LLB</pattern>
+   <template>
+      Tuition Fee for LLB (Hons) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 37,500 --- Installment: 12,500 --- Total Fees: 449,600.
+    </template>
+  </category>
+</aiml>

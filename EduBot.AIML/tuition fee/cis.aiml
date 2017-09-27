@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR COMPUTING INFORMATION SYSTEM</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR COMPUTING INFORMATION AND SYSTEM</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR COMPUTING INFORMATION SYSTEM</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR CIS</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR CIS</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR CIS</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR COMPUTING INFORMATION SYSTEM</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT COMPUTING INFORMATION AND SYSTEM</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR COMPUTING INFORMATION AND SYSTEM</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+	
+  </category>
+  <category>
+    <pattern>AMOUNT FOR CIS</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR CIS</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+	
+  </category>
+
+    <category>
+    <pattern>COST FOR CIS</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Computing Information and System (CIS)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 142 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 55,000 --- Installment: 18,667 --- Total Fees: 652,100.
+    </template>
+  </category>
+</aiml>

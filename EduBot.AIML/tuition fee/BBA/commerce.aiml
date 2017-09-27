@@ -1,0 +1,121 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR Bachelor of Commerce </pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR ENTREPRENEURSHIP</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR BE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Commerce (Hon's) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 125 --- Program Duration: 4 years <br></br>
+      Admission Fees: 29,100 --- Semester Cost(Average): 34,500 --- Installment: 11,333 --- Total Fees: 416,400.
+    </template>
+  </category>
+</aiml>

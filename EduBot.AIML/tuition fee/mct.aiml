@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR MULTIMEDIA AND CREATIVE TECHNOLOGY</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR MULTIMEDIA AND CREATIVE TECHNOLOGY</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR MULTIMEDIA AND CREATIVE TECHNOLOGY</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR MCT</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR MCT</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR MCT</pattern>
+    <template>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR MULTIMEDIA AND CREATIVE TECHNOLOGY</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR MULTIMEDIA AND CREATIVE TECHNOLOGY</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR MULTIMEDIA AND CREATIVE TECHNOLOGY</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR MCT</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR MCT</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR MCT</pattern>
+    <template>
+      Tuition Fee for B.Sc in Multimedia and Creative Technology (MCT)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 147 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 50,000 --- Installment: 16,667 --- Total Fees: 608,400.
+    </template>
+  </category>
+</aiml>

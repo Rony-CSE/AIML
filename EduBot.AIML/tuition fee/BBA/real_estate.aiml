@@ -1,0 +1,121 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR REAL ESTATE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR REAL ESTATE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR REAL ESTATE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR BRE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR BRE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR BRE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR REAL ESTATE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR REAL ESTATE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR REAL ESTATE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR BRE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR BRE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR BRE</pattern>
+    <template>
+      Tuition Fee for Bachelor of Real Estate (BRE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 45,300 --- Installment: 15,100 --- Total Fees: 531,100.
+    </template>
+  </category>
+</aiml>

@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR ENVIRONMENTAL SCIENCE AND DISASTER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR ENVIRONMENTAL SCIENCE AND DISASTER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR ENVIRONMENTAL SCIENCE AND DISASTER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR ESDM</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR ESDM</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR ESDM</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR ENVIRONMENTAL SCIENCE AND DISASTER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR ENVIRONMENTAL SCIENCE AND DISASTER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR ENVIRONMENTAL SCIENCE AND DISASTER</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>AMOUNT FOR ESDM</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR ESDM</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR ESDM</pattern>
+    <template>
+      Tuition Fee for B.Sc in Environmental Science and Disaster Mgt. (ESDM) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 130 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 30,000 --- Installment: 10,000 --- Total Fees: 375,600.
+    </template>
+  </category>
+</aiml>

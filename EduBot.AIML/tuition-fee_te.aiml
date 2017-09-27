@@ -1,0 +1,124 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* TAKA FOR TEXTILE ENGINEERING </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* COST FOR TEXTILE ENGINEERING </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR TEXTILE ENGINEERING </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* TAKA FOR TE </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* COST FOR TE </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR TE </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+
+
+<category>
+    <pattern>TAKA FOR TEXTILE ENGINEERING </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>COST FOR TEXTILE ENGINEERING </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR TEXTILE ENGINEERING </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>TAKA FOR TE </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>COST FOR TE </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR TE </pattern>
+    <template>
+      Tuition Fee for B.Sc in Textile Engineering (TE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 145 --- Program Duration: 4 years <br></br>
+      Admission Fees: 40,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 646,000.
+    </template>
+  </category>
+
+</aiml>

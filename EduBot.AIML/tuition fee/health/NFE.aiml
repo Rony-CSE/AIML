@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT NFE</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* TAKA FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern> COST FOR NUTRITION</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern> AMOUNT FOR FOOD</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+<category>
+    <pattern> TAKA FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+  
+  <category>
+    <pattern> AMOUNT FOR NFE</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern> TAKA FOR NUTRITION AND FOOD ENGNEERING</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>
+
+    <category>
+    <pattern> COST NFE</pattern>
+    <template>
+      Tuition Fee for B. Sc in  Nutrition & Food Engneering (NFE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 144 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,150 --- Semester Cost(Average): 42,000 --- Installment: 11,600 --- Total Fees: 453,300.
+    </template>
+  </category>

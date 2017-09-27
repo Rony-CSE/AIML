@@ -1,0 +1,121 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR CIVIL ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR CIVIL ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR CIVIL ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT FOR CE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR CE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR CE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR CIVIL ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR CIVIL ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR CIVIL ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR CE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR CE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR CE</pattern>
+    <template>
+      Tuition Fee for B.Sc in Civil Engineering (CE)<br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 53,000 --- Installment: 17,667 --- Total Fees: 609,100.
+    </template>
+  </category>
+</aiml>

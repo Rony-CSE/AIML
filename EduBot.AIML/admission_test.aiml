@@ -1,0 +1,34 @@
+<aiml version="1.0">
+  <category>
+    <pattern>ADMISSION TEST</pattern>
+    <template>
+    Tri- Semester (4 Months Duration) Fall -2017<br></br>
+
+  Last Date of Application :   Sep 11 , 2017 <br></br> 
+  Admission Test :   Sep 13 , 2017  <br></br>
+  (Time:- 11:00 AM, Only MBA :- 5:00 PM) <br></br>
+    </template>
+  </category>
+
+  <category>
+    <pattern>ADMISSION TEST *</pattern>
+    <template>
+    Tri- Semester (4 Months Duration) Fall -2017<br></br>
+
+  Last Date of Application :   Sep 11 , 2017 <br></br> 
+  Admission Test :   Sep 13 , 2017  <br></br>
+  (Time:- 11:00 AM, Only MBA :- 5:00 PM) <br></br>
+    </template>
+  </category>
+
+  <category>
+    <pattern>* ADMISSION TEST</pattern>
+    <template>
+    Tri- Semester (4 Months Duration) Fall -2017<br></br>
+
+  Last Date of Application :   Sep 11 , 2017 <br></br> 
+  Admission Test :   Sep 13 , 2017  <br></br>
+  (Time:- 11:00 AM, Only MBA :- 5:00 PM) <br></br>
+    </template>
+  </category>
+</aiml>

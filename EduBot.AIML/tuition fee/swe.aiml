@@ -1,0 +1,122 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST SOFTWARE ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR SOFTWARE ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR SOFTWARE ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+	
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR SWE</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR SOFTWARE ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR SWE</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR SOFTWARE ENGINEERING</pattern>
+    <template>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR SOFTWARE ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR SOFTWARE ENGINEERING</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR SWE</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR SWE</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR CSE</pattern>
+    <template>
+      Tuition Fee for B.Sc in B.Sc in Software Engineering (SWE) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 139 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 55,000 --- Installment: 18,333 --- Total Fees: 649,300.
+    </template>
+  </category>
+</aiml>

@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR BUSINESS ADMINISTRATION</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT BUSINESS ADMINISTRATION</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR BUSINESS ADMINISTRATION</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+  <category>
+    <pattern>* AMOUNT FOR BBA</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* TAKA FOR BBA</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR BBA</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+
+  <category>
+    <pattern>COST FOR BUSINESS ADMINISTRATION</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+  <category>
+    <pattern>AMOUNT FOR BUSINESS ADMINISTRATION</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+<category>
+    <pattern>TAKA FOR BUSINESS ADMINISTRATION</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+  <category>
+    <pattern>AMOUNT FOR BBA</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+    <category>
+    <pattern>TAKA FOR BBA</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+
+    <category>
+    <pattern>COST FOR BBA</pattern>
+    <template>
+      Tuition Fee for Bachelor of Business Administration (BBA) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 126 --- Program Duration: 4 years <br></br>
+      Admission Fees: 35,100 --- Semester Cost(Average): 56,000 --- Installment: 18,667 --- Total Fees: 611,050.
+    </template>
+  </category>
+</aiml>

@@ -1,0 +1,120 @@
+<aiml version="1.0">
+  <category>
+    <pattern>* COST FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* AMOUNT FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+<category>
+    <pattern>* TAKA FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern>* AMOUNT PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern>* TAKA FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern>* COST FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern> COST FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern> AMOUNT FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+<category>
+    <pattern> TAKA FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+  
+  <category>
+    <pattern> AMOUNT FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+  <category>
+    <pattern> TAKA FOR PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years<br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
+
+    <category>
+    <pattern> COST PHARMACY</pattern>
+    <template>
+      Tuition Fee for Bachelor of Pharmacy (B. Pharm Hons.) <br></br>
+      * All kinds of amount given TK in (BDT) *<br></br>
+      Credit: 162 --- Program Duration: 4 years <br></br>
+      Admission Fees: 47,550 --- Semester Cost(Average): 95,000 --- Installment: 31,667 --- Total Fees: 744,600.
+    </template>
+  </category>
